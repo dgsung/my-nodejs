@@ -1,0 +1,22 @@
+{
+  "name": "my-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo sung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgsung/my-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgsung/my-nodejs/issues"
+  },
+  "homepage": "https://github.com/dgsung/my-nodejs#readme",
+  "description": ""
+}
